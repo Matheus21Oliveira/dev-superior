@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\obj\Debug\net6.0\aula042.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\obj\Debug\net6.0\aula042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\obj\Debug\net6.0\aula042.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\obj\Debug\net6.0\aula042.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\obj\Debug\net6.0\aula042.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\bin\Debug\net6.0\aula042.exe
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\bin\Debug\net6.0\aula042.deps.json
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\bin\Debug\net6.0\aula042.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\bin\Debug\net6.0\aula042.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\bin\Debug\net6.0\aula042.pdb
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\obj\Debug\net6.0\aula042.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\obj\Debug\net6.0\refint\aula042.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\obj\Debug\net6.0\aula042.pdb
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\obj\Debug\net6.0\aula042.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\csharp-completo\secao004\aula042\aula042\obj\Debug\net6.0\ref\aula042.dll
