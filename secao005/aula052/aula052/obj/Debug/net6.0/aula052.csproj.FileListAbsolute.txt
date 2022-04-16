@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\bin\Debug\net6.0\aula052.exe
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\bin\Debug\net6.0\aula052.deps.json
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\bin\Debug\net6.0\aula052.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\bin\Debug\net6.0\aula052.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\bin\Debug\net6.0\aula052.pdb
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\obj\Debug\net6.0\aula052.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\obj\Debug\net6.0\aula052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\obj\Debug\net6.0\aula052.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\obj\Debug\net6.0\aula052.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\obj\Debug\net6.0\aula052.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\obj\Debug\net6.0\aula052.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\obj\Debug\net6.0\refint\aula052.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\obj\Debug\net6.0\aula052.pdb
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\obj\Debug\net6.0\aula052.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\secao005\aula052\aula052\obj\Debug\net6.0\ref\aula052.dll
