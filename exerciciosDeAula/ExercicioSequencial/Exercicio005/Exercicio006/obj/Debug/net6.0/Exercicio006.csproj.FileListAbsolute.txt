@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\bin\Debug\net6.0\Exercicio006.exe
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\bin\Debug\net6.0\Exercicio006.deps.json
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\bin\Debug\net6.0\Exercicio006.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\bin\Debug\net6.0\Exercicio006.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\bin\Debug\net6.0\Exercicio006.pdb
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\obj\Debug\net6.0\refint\Exercicio006.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.pdb
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\dev-superior\exerciciosDeAula\ExercicioSequencial\Exercicio006\Exercicio006\obj\Debug\net6.0\ref\Exercicio006.dll
